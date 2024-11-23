@@ -1,0 +1,11 @@
+Model Information:
+* title:	Big Stump - Florissant Fossil Beds (Day 3/365)
+* source:	https://sketchfab.com/3d-models/big-stump-florissant-fossil-beds-day-3365-772ba0bd9909457bafeacab5ed4edb97
+* author:	VibrantNebula (https://sketchfab.com/vibrantnebula)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Big Stump - Florissant Fossil Beds (Day 3/365)" (https://sketchfab.com/3d-models/big-stump-florissant-fossil-beds-day-3365-772ba0bd9909457bafeacab5ed4edb97) by VibrantNebula (https://sketchfab.com/vibrantnebula) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
